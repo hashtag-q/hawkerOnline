@@ -1,0 +1,18 @@
+How to change directories in terminal 
+=>cd + name of dir
+how to go back in directories
+=>cd ..
+how to end a running command
+=>ctrl+c two times
+how to  list directories
+=>dir or ls 
+How to start back end
+=>npm run server
+// because the name of the backend is server.js
+
+how to start frontend 
+=>npm start 
+how to start app at once 
+=>npm run dev
+
+
